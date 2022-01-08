@@ -1,7 +1,7 @@
 # Predictors-for-Sovereig-Credit-Ratings
 
 This repository stores codes for my previous project "Predicting Sovereign Credit Ratings with Economic, Social, and Political Factors." 
-
+To view the html file, please visit this link: https://htmlpreview.github.io/?https://github.com/kireneyj/Predictors-for-Sovereig-Credit-Ratings/blob/main/Kwon_Irene_Final.html
 
 ## Data Citation
 ### Sovereign Ratings 
